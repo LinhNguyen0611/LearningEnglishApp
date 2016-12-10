@@ -1,0 +1,353 @@
+[
+    {
+        "outputFile": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 52,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 61,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 61,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 64,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 64,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 62,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 62,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 66,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 66,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 62,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 62,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 63,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 63,
+                        "endOffset": 795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 63,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 63,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 60,
+                    "endOffset": 830
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 60,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 835,
+                    "endColumn": 61,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 61,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 60,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 60,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 66,
+                    "endOffset": 1020
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 66,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1025,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1311
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1316,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1506
+                },
+                "from": {
+                    "file": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 714
+                    }
+                }
+            }
+        ]
+    }
+]

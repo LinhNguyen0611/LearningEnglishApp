@@ -1,0 +1,7 @@
+#Sat Dec 10 09:27:52 ICT 2016
+base.0=E\:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5da63923919ae36f2e9ac838da09963b7c872e62
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_391f18d0a589fdb8737ee61d3071124bd4ef1702\\classes.dex
+base.1=E\:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_391f18d0a589fdb8737ee61d3071124bd4ef1702
+file.0=E\:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5da63923919ae36f2e9ac838da09963b7c872e62\\classes.dex

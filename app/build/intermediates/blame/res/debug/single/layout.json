@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_notes.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_edit_notes.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notes.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_notes.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animal.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_animal.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addnotes.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_addnotes.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listen_2.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\listen_2.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_notes.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\listview_item_notes.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_mot_o.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\gridview_mot_o.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listen.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_listen.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listen_1.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\listen_1.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toast.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\layout_toast.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vocabulary.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\layout\\activity_vocabulary.xml"
+    }
+]

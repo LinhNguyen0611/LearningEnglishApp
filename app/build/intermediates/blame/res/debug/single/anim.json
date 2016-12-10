@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_under.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\anim\\translate_under.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_xuoi.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\anim\\rotate_xuoi.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_big.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\anim\\scale_big.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale2.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\anim\\scale2.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_next.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\anim\\translate_next.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_pre.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\anim\\translate_pre.xml"
+    },
+    {
+        "merged": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_nguoc.xml",
+        "source": "E:\\HOC KY I NAM 2\\LearnEnglish\\LearningEnglishApp\\app\\src\\main\\res\\anim\\rotate_nguoc.xml"
+    }
+]

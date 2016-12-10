@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\HOC KY I NAM 2\LearnEnglish\LearningEnglishApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dc51ef5b7818a3bd9fbcf6ea870658c46b4ec71">
+        <dex dex="E:\HOC KY I NAM 2\LearnEnglish\LearningEnglishApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5da63923919ae36f2e9ac838da09963b7c872e62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HOC KY I NAM 2\LearnEnglish\LearningEnglishApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63145f2bd8750e00e17fcf3d10a90c24a87f75db">
+        <dex dex="E:\HOC KY I NAM 2\LearnEnglish\LearningEnglishApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_391f18d0a589fdb8737ee61d3071124bd4ef1702\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\HOC KY I NAM 2\LearnEnglish\LearningEnglishApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc\classes.dex" />
+    </item>
+
+</items>
